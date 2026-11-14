@@ -1,9 +1,9 @@
 ## File: graphdb.R
 ## Description: A demonstration of how to create and use graph DB's in R with Big Data
-## Copyright: (c) 2014, Jason D. Miller, MS, MS
+## Copyright: (c) 2014, Ason Peikoff, MS, MS
 ## http://hack-r.com 
 ## http://hack-r.github.io
-## http://github.com/hack-r
+## http://github.com/asonpeikoff
 
 
 # Source Libraries/Functions ----------------------------------------------
